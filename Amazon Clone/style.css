@@ -150,7 +150,9 @@ span{
 }
 
 footer{
-    margin-top: 7px;
+    border-top: 7px;
+    border-top-style: solid;
+    border-top-color: #d3d3d3;
 }
 .foot-panel1{
     height: 49;
